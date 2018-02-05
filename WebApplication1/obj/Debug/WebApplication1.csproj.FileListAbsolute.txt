@@ -1,0 +1,162 @@
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\WebApplication1.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Owin.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\WebGrease.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Providers.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\log4net.dll
+C:\CLASE 14\pto\ConsoleApplication1\WebApplication1\bin\log4net.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\WebApplication1.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\log4net.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Owin.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\WebGrease.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\log4net.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\System.Web.Providers.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\CLASE 14 C#\pto\ConsoleApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
